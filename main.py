@@ -209,5 +209,3 @@ while in_game:
               sqrs)
 
     pygame.display.update()
-
-# some test here
